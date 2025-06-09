@@ -2,6 +2,7 @@
 
 I'm Mohamed Attia — a passionate developer, builder, and open-source enthusiast.
 
+- using arch btw + (vim)
 💻 I love working on:
 - Frontend & backend web projects
 - Automating things with scripts
