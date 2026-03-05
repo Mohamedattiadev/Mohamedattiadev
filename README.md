@@ -1,77 +1,151 @@
-<h1 align="center">👋 Fancy seeing you here!</h1>
+<h1 align="center">Hi, I'm Mohamed Attia</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+Software developer • using <strong>Arch</strong> btw
 </p>
 
 <p align="center">
-I'm <strong>Mohamed Attia</strong> — a passionate developer, builder, and open-source enthusiast.
-</p>
-
-<p align="center">
-  <em>— using Arch btw + <strong>(n)vim</strong> 💻</em>
-</p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamedattiadev.Mohamedattiadev" alt="Visitor badge" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamedattiadev.Mohamedattiadev"/>
 </p>
 
 ---
 
-## 💡 About Me
+## About
 
-- 🔭 I enjoy building **frontend & backend web projects**
-- ⚙️ Automating workflows and daily tasks with scripts
-- 🧪 Always experimenting with new tools, APIs, and frameworks
-- 🌱 Currently diving deeper into **Lua**, **Neovim plugins**, and **Vue.js**
+I enjoy building software that is simple, reliable, and useful.
 
----
+Most of my work is around web development, but I also explore developer tools and automation.
 
-## 📫 Connect With Me
+- Full-stack web applications  
+- Workflow automation  
+- Tools, APIs, and experimentation  
 
-[![LinkedIn](https://img.shields.io/badge/-MohamedAttia-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedattiadev/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Mohamedattiadev)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mohamedattiadev@gmail.com)
+Recently interested in **drones and embedded systems**.
 
 ---
 
-## ⚡ Tech Stack
+<table width="100%">
+<tr>
 
-### 🧠 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+<td width="45%" valign="top">
 
-### 🧰 Tools & DevOps
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+<b>Contact</b><br>
 
-### 🔧 Editors
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim)
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+<a href="https://www.linkedin.com/in/mohamedattiadev/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohamed_Attia-blue?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:mohamedattiadev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Mohamedattiadev">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github">
+</a>
+
+</td>
+
+<td width="55%" valign="top">
+
+<b>Tech</b><br>
+
+<img src="https://img.shields.io/badge/JS-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js"/>
+<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua"/>
+<img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux"/>
+<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center">Featured Projects</h2>
+
+<table width="100%">
+<tr>
+
+<td width="33%">
+<a href="https://github.com/Mohamedattiadev/Newdotfile-">
+<img src="assets/project1.png" width="100%">
+</a>
+</td>
+
+<td width="33%">
+<a href="https://github.com/Mohamedattiadev/SecureFile">
+<img src="assets/project2.png" width="100%">
+</a>
+</td>
+
+<td width="33%">
+<a href="https://github.com/Mohamedattiadev/AtiDocs">
+<img src="assets/project3.png" width="100%">
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%">
+<a href="https://github.com/Mohamedattiadev/Wanisah-AIAssistant">
+<img src="assets/project4.png" width="100%">
+</a>
+</td>
+
+<td width="33%">
+<!-- <a href="private"> -->
+<img src="assets/project5.png" width="100%">
+</a>
+</td>
+
+<td width="33%">
+<a href="https://github.com/Mohamedattiadev/IntentTubeV2">
+<img src="assets/project6.png" width="100%">
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%">
+<a href="https://github.com/Kerim123-k/Design-And-Analysis-Of-Algorithms-Project-SENG303">
+<img src="assets/project7.png" width="100%">
+</a>
+</td>
+
+<td width="33%">
+<a href="https://github.com/Kerim123-k/University-Database-Management-System-Project-">
+<img src="assets/project8.png" width="100%">
+</a>
+</td>
+
+<td width="33%">
+<a href="https://github.com/Mohamedattiadev/my-study-summaries">
+<img src="assets/project9.png" width="100%">
+</a>
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/Mohamedattiadev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamedattiadev&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Mohamed's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Mohamedattiadev">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedattiadev&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-  </a>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamedattiadev&theme=tokyonight"/>
 </p>
 
-
-
-
+<p align="center">
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamedattiadev&theme=tokyonight"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamedattiadev&theme=tokyonight"/>
+</p>
