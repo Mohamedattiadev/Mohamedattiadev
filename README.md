@@ -131,7 +131,7 @@ Recently interested in **drones and embedded systems**.
 
 <br>
 
-<b>Historical Archive</b>
+<b>Portofolio+social media proj</b>
 
 </td>
 
@@ -159,7 +159,7 @@ Recently interested in **drones and embedded systems**.
 
 <br>
 
-<b>Algorithm Visualizer</b>
+<b>literature review-Louvain Algo</b>
 
 </td>
 
@@ -183,7 +183,7 @@ Recently interested in **drones and embedded systems**.
 
 <br>
 
-<b>Study Summaries</b>
+<b>My Study Summaries</b>
 
 </td>
 
