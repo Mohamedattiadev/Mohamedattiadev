@@ -1,8 +1,8 @@
 <h1 align="center">Mohamed Attia</h1>
 
 <p align="center">
-Software engineering student · AYBU · Ankara · UTC+3<br>
-Building tools I actually use — and shipping them open source.
+Software engineering student · AYBU · Ankara<br>
+I build tools I actually use, then ship them open source.
 </p>
 
 <p align="center">
@@ -27,9 +27,21 @@ I'm a software engineering student at **AYBU** (Ankara Yıldırım Beyazıt Univ
 
 ### Stack
 
-`TypeScript` · `Go` · `React` · `Three.js` · `Node` · `Python` · `Postgres` · `SQLite` · `Docker` · `Linux` · `Neovim`
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb">
+<img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Neovim-57a143?style=flat-square&logo=neovim&logoColor=white">
+</p>
 
-Comfortable on the web. Reaching toward systems, graphics, and embedded.
+Strongest on the web. Comfortable in the terminal. Reaching toward systems and graphics next.
 
 ---
 
@@ -61,16 +73,21 @@ A full list of repos lives on my [portfolio Work page](https://mohamedattiadev.g
 
 ### Journal
 
-I write short, B1/B2-level posts about tools, habits, and lessons from shipping side projects. New post lands once a week, automatically picked by a small CI script.
+Short posts about tools, habits, and what I learn while shipping small things. New writing lands regularly.
 
 📖 [Read the journal](https://mohamedattiadev.github.io/#/journal)
 
 ---
 
-### Contact
+### Get in touch
 
-The fastest way to reach me is **email**: [mohattiads@gmail.com](mailto:mohattiads@gmail.com). I reply within 24 hours, Monday to Friday.
+<p>
+<a href="mailto:mohattiads@gmail.com"><img src="https://img.shields.io/badge/Email-mohattiads%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mohamed-attia"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Attia-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Mohamedattiadev"><img src="https://img.shields.io/badge/GitHub-Mohamedattiadev-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
+**Best by email.** I read everything and usually reply within a day.
 Languages: English · Türkçe · العربية.
 
 <p align="center">
