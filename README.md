@@ -23,6 +23,8 @@ I'm a software engineering student at **AYBU** (Ankara Yıldırım Beyazıt Univ
 
 **Open to work** — full-time or part-time, frontend or full-stack, remote or in Ankara / İstanbul. Available from Summer 2026.
 
+Languages: English · Türkçe · العربية.
+
 ---
 
 ### Stack
@@ -88,7 +90,6 @@ Short posts about tools, habits, and what I learn while shipping small things. N
 </p>
 
 **Best by email.** I read everything and usually reply within a day.
-Languages: English · Türkçe · العربية.
 
 <p align="center">
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamedattiadev&theme=tokyonight"/>
