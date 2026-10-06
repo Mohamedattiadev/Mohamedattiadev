@@ -7,7 +7,7 @@ I build tools I actually use, then ship them open source.
 
 <p align="center">
 <a href="https://mohamedattiadev.github.io/"><img src="https://img.shields.io/badge/Portfolio-mohamedattiadev.github.io-a78bfa?style=for-the-badge"></a>
-<a href="mailto:mohattiads@gmail.com"><img src="https://img.shields.io/badge/Email-mohattiads%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:mohamedattiaeid@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedattiaeid%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mohamed-attia"><img src="https://img.shields.io/badge/LinkedIn-mohamed--attia-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
