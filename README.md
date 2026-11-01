@@ -84,7 +84,7 @@ Short posts about tools, habits, and what I learn while shipping small things. N
 ### Get in touch
 
 <p>
-<a href="mailto:mohattiads@gmail.com"><img src="https://img.shields.io/badge/Email-mohattiads%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:mohamedattiaeid@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedattiaeid%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mohamed-attia"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Attia-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/Mohamedattiadev"><img src="https://img.shields.io/badge/GitHub-Mohamedattiadev-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
